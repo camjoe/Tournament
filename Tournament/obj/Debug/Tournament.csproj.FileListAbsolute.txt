@@ -1,0 +1,7 @@
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Tournament.csprojAssemblyReference.cache
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\Tournament.csproj.CoreCompileInputs.cache
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cam\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
